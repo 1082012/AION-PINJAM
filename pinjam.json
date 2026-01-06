@@ -1,5 +1,18 @@
 {
-  "users": [],
+  "users": [
+    {
+      "uid": 1767690901623,
+      "name": "Gusti",
+      "phone": "081313876160",
+      "pass": "MTI=",
+      "limit": 100000,
+      "isVerified": false,
+      "isPending": false,
+      "address": "",
+      "loans": [],
+      "createdAt": "2026-01-06T09:15:01.628Z"
+    }
+  ],
   "loans": [],
   "meta": {
     "total_disbursed": 0
