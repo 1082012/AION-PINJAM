@@ -5,7 +5,7 @@
       "name": "Gusti",
       "phone": "081313876160",
       "pass": "MTI=",
-      "limit": 80000,
+      "limit": null,
       "isVerified": true,
       "isPending": false,
       "address": "Pepe",
