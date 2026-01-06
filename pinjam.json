@@ -13,7 +13,15 @@
       "createdAt": "2026-01-06T09:15:01.628Z"
     }
   ],
-  "loans": [],
+  "loans": [
+    {
+      "id": "AION-1BLA4",
+      "uid": 1767690901623,
+      "amount": 10000,
+      "status": "PENDING",
+      "date": "2026-01-06T09:21:44.553Z"
+    }
+  ],
   "meta": {
     "total_disbursed": 0
   }
